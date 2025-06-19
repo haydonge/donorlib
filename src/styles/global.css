@@ -1,0 +1,9 @@
+.hero-image {
+    text-align: center !important;
+  }
+  
+  .hero-image img {
+    margin-left: auto !important;
+    margin-right: auto !important;
+    display: block !important;
+  }

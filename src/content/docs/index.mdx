@@ -1,36 +1,129 @@
 ---
-title: Welcome to Starlight
-description: Get started building your docs site with Starlight.
+title: Welcome to DonorLib
+description: 全球优质精子卵子库 - 专业生殖细胞服务平台
 template: splash
 hero:
-  tagline: Congrats on setting up a new Starlight project!
+  tagline: 全球优质精子卵子库 - 您的生育梦想从这里开始
   image:
-    file: ../../assets/houston.webp
+    file: ../../assets/6108-1-Photoroom.png
   actions:
-    - text: Example Guide
+    - text: 浏览卵子库
       link: /guides/example/
       icon: right-arrow
-    - text: Read the Starlight docs
+    - text: 查看精子库
+      link: /sperm/
+      icon: right-arrow
+    - text: 联系咨询
       link: https://starlight.astro.build
       icon: external
       variant: minimal
 ---
 
-import { Card, CardGrid } from '@astrojs/starlight/components';
+import { Card, CardGrid, Badge, Aside } from '@astrojs/starlight/components';
 
-## Next steps
+<Aside type="tip" title="专业提示">
+  DonorLib严格遵循国际医学标准，所有生殖细胞均经过全面的健康筛查和遗传学检测。
+</Aside>
 
-<CardGrid stagger>
-	<Card title="Update content" icon="pencil">
-		Edit `src/content/docs/index.mdx` to see this page change.
+## 🌟 关于DonorLib
+
+DonorLib是一个专业的国际生殖细胞库平台，致力于为全球有生育需求的家庭提供优质的精子和卵子资源。
+
+### 核心优势
+
+<CardGrid>
+  <Card title="🌍 全球资源" icon="star">
+    汇集来自世界各地的优质捐献者资源
+  </Card>
+  <Card title="🔬 严格筛选" icon="approve-check">
+    多重医学检测和心理评估标准
+  </Card>
+  <Card title="👨‍⚕️ 专业团队" icon="user">
+    经验丰富的生殖医学专家团队
+  </Card>
+  <Card title="🔒 隐私保护" icon="shield">
+    完善的隐私保护和法律保障体系
+  </Card>
+</CardGrid>
+
+---
+
+## 💎 核心服务
+
+<CardGrid >
+  <Card title="优质卵子库" icon="heart">
+    **年龄范围**: 21-30岁优秀女性捐献者  
+    **筛选标准**: 严格医学检查、遗传学筛查  
+    **详细档案**: 健康信息、教育背景、个人特质  
+    
+    <Badge text="AMH ≥2.0" variant="success" />
+    <Badge text="基础卵泡 ≥10个" variant="success" />
+    <Badge text="高等教育" variant="note" />
+  </Card>
+  
+  <Card title="精选精子库" icon="user">
+    **年龄范围**: 18-40岁健康男性捐献者  
+    **质量保证**: 多重筛选的优质精子样本  
+    **全面检测**: 传染病、遗传病、精液质量分析  
+    
+    <Badge text="浓度 ≥20×10⁶/mL" variant="success" />
+    <Badge text="活力 ≥50%" variant="success" />
+    <Badge text="形态率 ≥4%" variant="note" />
+  </Card>
+  
+  <Card title="智能匹配" icon="puzzle">
+    **AI算法**: 先进的匹配算法和人工智能技术  
+    **个性化**: 根据身体条件、遗传背景精准匹配  
+    **专业团队**: 丰富生殖医学经验的专家指导  
+    
+    <Badge text="精准匹配" variant="tip" />
+    <Badge text="高成功率" variant="success" />
+  </Card>
+  
+  <Card title="全程支持" icon="information">
+    **咨询服务**: 生育咨询、心理辅导、法律指导  
+    **医疗协调**: 从初期咨询到治疗完成全程支持  
+    **专家解答**: 辅助生殖技术、流程、成功率详解  
+    
+    <Badge text="24小时咨询" variant="caution" />
+    <Badge text="专业指导" variant="note" />
+  </Card>
+</CardGrid>
+
+---
+
+## 🏆 质量认证
+
+<Aside type="note" title="国际标准">
+  严格遵循WHO、FDA等国际权威机构标准，定期接受第三方质量审核。
+</Aside>
+
+## 质量保证
+
+<CardGrid>
+	<Card title="🥚 卵子质量标准" icon="heart">
+		- **捐献者年龄**：21-30岁
+		- **AMH水平**：≥2.0 ng/mL
+		- **基础卵泡数**：≥10个
+		- **遗传疾病**：无家族史
+		- **教育背景**：完成高等教育
+		- **心理评估**：合格
 	</Card>
-	<Card title="Add new content" icon="add-document">
-		Add Markdown or MDX files to `src/content/docs` to create new pages.
-	</Card>
-	<Card title="Configure your site" icon="setting">
-		Edit your `sidebar` and other config in `astro.config.mjs`.
-	</Card>
-	<Card title="Read the docs" icon="open-book">
-		Learn more in [the Starlight Docs](https://starlight.astro.build/).
+	<Card title="🧬 精子质量标准" icon="user">
+		- **精子浓度**：≥20×10⁶/mL
+		- **精子活力**：≥50%前向运动
+		- **正常形态率**：≥4%
+		- **传染性疾病**：无
+		- **遗传学检测**：正常
+		- **冷冻复苏率**：≥60%
 	</Card>
 </CardGrid>
+
+<Aside type="caution" title="重要提醒">
+  所有服务均需遵循当地法律法规，请在咨询前了解相关政策要求。
+</Aside>
+
+---
+
+
+

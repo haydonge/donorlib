@@ -6,7 +6,7 @@ import starlight from '@astrojs/starlight';
 export default defineConfig({
 	integrations: [
 		starlight({
-			title: 'My Docs',
+			title: 'DONOR LIB',
 			social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/withastro/starlight' }],
 			sidebar: [
 				{
@@ -17,9 +17,25 @@ export default defineConfig({
 					],
 				},
 				{
-					label: 'Reference',
-					autogenerate: { directory: 'reference' },
+					label: 'Best',
+					autogenerate: {
+						 directory: 'Reference',
+						 },
 				},
+
+				{
+					label: 'Smoothbaby',
+					autogenerate: {
+						 directory: 'smoothbaby',
+						 },
+				},
+				{
+					label: 'Sperm',
+					autogenerate: {
+						 directory: 'sperm',
+						 },
+				},
+
 			],
 		}),
 	],

@@ -2,10 +2,10 @@
 title: Example Guide
 description: A guide in my new Starlight docs site.
 ---
+## Most Import Notice
+:::tips
 
-Guides lead a user through a specific task they want to accomplish, often with a sequence of steps.
-Writing a good guide requires thinking about what your users are trying to do.
-
+Bella & Haydon Donor Lib is a donor library for smoothbaby & TANG IVF 
+We are not 100% sure those donor can be available in the same time .
+caused by always been choose by client in many cases.
 ## Further reading
-
-- Read [about how-to guides](https://diataxis.fr/how-to-guides/) in the Diátaxis framework
