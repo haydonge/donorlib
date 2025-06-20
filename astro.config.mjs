@@ -19,7 +19,7 @@ export default defineConfig({
 				{
 					label: 'Best',
 					autogenerate: {
-						 directory: 'reference',
+						 directory: 'Reference',
 						 },
 				},
 
