@@ -10,13 +10,7 @@ category: Sperm
 ---
 
 
-![](media/ddcdd6b7_02_140307.png)
 
-![](media/ddcdd6b7_03_140307.png)
-
-![](media/ddcdd6b7_04_140307.png)
-
-![](media/ddcdd6b7_05_140307.png)
 
 **DO-EU-MALE №786**
 
@@ -44,3 +38,10 @@ category: Sperm
 | Education: Higher Education  教育：高等教育 |
 | Job: economist  工作：经济专家 |
 
+![](media/ddcdd6b7_02_140307.png)
+
+![](media/ddcdd6b7_03_140307.png)
+
+![](media/ddcdd6b7_04_140307.png)
+
+![](media/ddcdd6b7_05_140307.png)

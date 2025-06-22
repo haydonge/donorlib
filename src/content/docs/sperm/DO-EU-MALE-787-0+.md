@@ -9,11 +9,6 @@ summary:
 category: Sperm
 ---
 
-![](media/3bcbbbc8_02_140307.png)
-
-![](media/3bcbbbc8_03_140307.png)
-
-![](media/3bcbbbc8_04_140307.png)
 
 **DO-EU-MALE №787**
 
@@ -40,3 +35,9 @@ category: Sperm
 | Any allergies?-No  有过敏吗？-否 |
 | Education: Higher Education  教育：高等教育 |
 | Job: manager  工作：经理 |
+
+![](media/3bcbbbc8_02_140307.png)
+
+![](media/3bcbbbc8_03_140307.png)
+
+![](media/3bcbbbc8_04_140307.png)

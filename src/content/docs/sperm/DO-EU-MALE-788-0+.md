@@ -9,13 +9,6 @@ summary:
 category: Sperm
 ---
 
-![](media/f87d2f84_02_140308.png)
-
-![](media/f87d2f84_03_140308.png)
-
-![](media/f87d2f84_04_140308.png)
-
-![](media/f87d2f84_05_140308.png)
 
 **DO-EU-MALE №788**
 
@@ -45,3 +38,10 @@ category: Sperm
 
 
 
+![](media/f87d2f84_02_140308.png)
+
+![](media/f87d2f84_03_140308.png)
+
+![](media/f87d2f84_04_140308.png)
+
+![](media/f87d2f84_05_140308.png)

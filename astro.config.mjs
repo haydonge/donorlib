@@ -19,7 +19,7 @@ export default defineConfig({
 				{
 					label: 'Best',
 					autogenerate: {
-						 directory: 'Reference',
+						 directory: 'reference',
 						 },
 				},
 
@@ -29,6 +29,15 @@ export default defineConfig({
 						 directory: 'smoothbaby',
 						 },
 				},
+				{
+					label: 'Tang-ivf',
+					autogenerate: {
+						 directory: 'TANG-ivf',
+						 },
+				},
+
+
+				
 				{
 					label: 'Sperm',
 					autogenerate: {

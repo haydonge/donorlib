@@ -9,13 +9,6 @@ summary:
 category: Sperm
 ---
 
-![](media/be1c3429_02_140307.png)
-
-![](media/be1c3429_03_140307.png)
-
-![](media/be1c3429_04_140307.png)
-
-![](media/be1c3429_05_140307.png)
 
 **DO-EU-MALE №659**
 
@@ -43,3 +36,10 @@ category: Sperm
 | Education: Higher Education  教育：高等教育           |
 | Job: engineer  工作：工程师                           |
 
+![](media/be1c3429_02_140307.png)
+
+![](media/be1c3429_03_140307.png)
+
+![](media/be1c3429_04_140307.png)
+
+![](media/be1c3429_05_140307.png)
