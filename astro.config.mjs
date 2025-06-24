@@ -6,7 +6,7 @@ import starlight from '@astrojs/starlight';
 export default defineConfig({
 	server: {
 		host: '0.0.0.0',
-		port: 4321
+		port: 3000
 	},
 	vite: {
 		server: {
