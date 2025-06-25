@@ -1,6 +1,7 @@
 // @ts-check
 import { defineConfig } from 'astro/config';
 import starlight from '@astrojs/starlight';
+import { hasOnlyExpressionInitializer } from 'typescript';
 
 // https://astro.build/config
 export default defineConfig({
@@ -8,17 +9,15 @@ export default defineConfig({
 		host: true,
 		port: 3000
 	},
+	
 	vite: {
-		server: {
-			host: '0.0.0.0',
-			port: 3000
-		},
 		preview: {
 			host: true,
 			port: 3000,
 			allowedHosts: ['mandylove.kgzivf.com']
 		}
 	},
+
 	integrations: [
 		starlight({
 			title: 'DONOR LIB',
