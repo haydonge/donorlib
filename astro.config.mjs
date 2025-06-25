@@ -5,7 +5,7 @@ import starlight from '@astrojs/starlight';
 // https://astro.build/config
 export default defineConfig({
 	server: {
-		host: '0.0.0.0',
+		host: true,
 		port: 3000
 	},
 	vite: {
@@ -14,7 +14,7 @@ export default defineConfig({
 			port: 3000
 		},
 		preview: {
-			host: '0.0.0.0',
+			host: true,
 			port: 3000,
 			allowedHosts: ['mandylove.kgzivf.com']
 		}
