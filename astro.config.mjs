@@ -16,7 +16,7 @@ export default defineConfig({
 		preview: {
 			host: '0.0.0.0',
 			port: 3000,
-			allowedHosts: ['mandylove-kgzivf-n4yrbg-5120a3-66-63-168-191.traefik.me']
+			allowedHosts: ['mandylove.kgzivf.com']
 		}
 	},
 	integrations: [
