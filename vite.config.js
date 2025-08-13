@@ -8,6 +8,6 @@ export default defineConfig({
   preview: {
     host: true,
     port: 3000,
-    allowedHosts: ['mandylove.kgzivf.com']
+    allowedHosts: ['mandylove.kgzivf.com', 'donor.tangivf.com']
   }
 });
