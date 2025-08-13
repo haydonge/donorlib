@@ -4,9 +4,9 @@
   "version": "0.0.2",
   "scripts": {
     "dev": "astro dev --host 0.0.0.0",
-    "start": "astro preview --host 0.0.0.0 --port 3000 --allowed-hosts mandylove.kgzivf.com",
+    "start": "astro preview --host 0.0.0.0 --port 3000 --allowed-hosts mandylove.kgzivf.com,donor.tangivf.com",
     "build": "astro build",
-    "preview": "astro preview --host 0.0.0.0 --allowed-hosts mandylove.kgzivf.com",
+    "preview": "astro preview --host 0.0.0.0 --allowed-hosts mandylove.kgzivf.com,donor.tangivf.com",
     "astro": "astro"
   },
   "dependencies": {
